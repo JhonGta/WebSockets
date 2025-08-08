@@ -27,7 +27,6 @@ Se desarrolló un sistema que permite notificar en tiempo real al docente cuando
 Se incluyen aspectos relacionados con los objetivos, resaltando la realización de las actividades en función al manejo y disciplina en el laboratorio. El sistema busca optimizar la comunicación entre estudiantes y docentes, facilitando la supervisión de equipos ocupados.
 
 ## 2. OBJETIVO(S)
-2.1 Describir los alcances o metas de la práctica o experimento:
 - Implementar un sistema de notificación instantánea para el registro de equipos.
 - Mejorar la interacción y control de recursos en el laboratorio.
 
