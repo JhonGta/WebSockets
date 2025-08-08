@@ -48,12 +48,16 @@ Se observa que la notificación se recibe de forma instantánea en el panel del 
 | Registrar Equipo    | Mensaje de confirmación| Notificación visual  |
 
 ## 6. GRÁFICOS O FOTOGRAFÍAS
-- **Panel Estudiante:** Se muestra la interfaz donde el estudiante puede registrar equipos. Cada registro genera un evento que es enviado al servidor.
-- **Panel Docente:** Se observa la notificación visual en tiempo real, indicando qué estudiante ha ocupado qué equipo. Esto permite al docente monitorear la ocupación de los equipos de manera eficiente.
 
-*(Agrega aquí los enlaces de tus imágenes en Imgur)*
 - ![Panel Estudiante](https://i.imgur.com/f38u4bW.png)
+
+  **Descripción:**
+  A la izquierda se muestra el Panel Estudiante, donde el usuario tiene la opción de registrar un equipo en la columna de acciones. Se observan tres botones “Registrar Equipo” para cada práctica disponible. A la derecha está el Panel Docente, el cual se encuentra vacío y sin notificaciones, esperando la acción de algún estudiante.
+
 - ![Panel Docente](https://i.imgur.com/33dJ9lQ.png)
+
+  **Descripción:**
+  En la izquierda, el estudiante ha presionado el botón “Registrar Equipo”, lo que genera una confirmación en su pantalla. En la derecha, el Panel Docente muestra instantáneamente una notificación azul en la parte inferior, indicando que el estudiante ha ocupado el equipo (por ejemplo: “El estudiante Estudiante prueba ha ocupado el equipo PC-05”). Esto evidencia la comunicación en tiempo real entre ambos paneles mediante Socket.io.
 
 ## 7. DISCUSIÓN
 La implementación demuestra la utilidad de los eventos en tiempo real para la gestión de laboratorios. El docente puede reaccionar rápidamente ante la ocupación de equipos, mejorando la supervisión y la experiencia de los estudiantes.
@@ -90,4 +94,4 @@ Se logró implementar un sistema de notificación eficiente y funcional, cumplie
    - Al registrar un equipo desde el panel del estudiante, el docente recibirá una notificación instantánea.
 
 ---
-"# WebSockets" 
+"# WebSockets"
