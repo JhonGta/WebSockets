@@ -9,15 +9,15 @@
 ---
 
 ## Título o tema de la práctica
-Implementación de un sistema de notificación en tiempo real para el registro de equipos en laboratorio distribuido usando Socket.io y React. *(máx. 20 palabras, TL14)*
+Implementación de un sistema de notificación en tiempo real para el registro de equipos en laboratorio distribuido usando Socket.io y React. 
 
 **Nombre de los estudiantes:**
-Jhon Guamán, Fabian Palme *(TL12)*
+Jhon Guamán, Fabian Palma 
 
 ---
 
 ## RESUMEN
-Se desarrolló un sistema que permite notificar en tiempo real al docente cuando un estudiante registra un equipo en el laboratorio. El propósito fue mejorar la gestión y supervisión de los recursos, permitiendo al docente visualizar instantáneamente qué equipos están siendo ocupados. La solución utiliza Socket.io para la comunicación persistente entre el frontend y el backend, y React para la interfaz de usuario. Se logró una integración eficiente, cumpliendo los objetivos de la práctica y demostrando la utilidad de los eventos en tiempo real en ambientes educativos. *(TL11, 8-15 líneas)*
+Se desarrolló un sistema que permite notificar en tiempo real al docente cuando un estudiante registra un equipo en el laboratorio. El propósito fue mejorar la gestión y supervisión de los recursos, permitiendo al docente visualizar instantáneamente qué equipos están siendo ocupados. La solución utiliza Socket.io para la comunicación persistente entre el frontend y el backend, y React para la interfaz de usuario. Se logró una integración eficiente, cumpliendo los objetivos de la práctica y demostrando la utilidad de los eventos en tiempo real en ambientes educativos.
 
 **Palabras Claves:** Socket.io, Notificación, Laboratorio
 
